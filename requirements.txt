@@ -1,0 +1,16 @@
+# Core numerical and scientific computing
+numpy>=1.22.0
+scipy>=1.7.0
+
+# Computer Vision & Image Processing
+opencv-python>=4.6.0
+
+# Deep Learning (includes Keras)
+tensorflow>=2.10.0
+
+# Data Visualization
+matplotlib>=3.5.0
+
+# Notebook Runtime
+notebook>=6.4.0
+ipykernel>=6.0.0
