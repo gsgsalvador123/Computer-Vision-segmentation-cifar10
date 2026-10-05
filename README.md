@@ -1,4 +1,4 @@
-# Computer Vision & Deep Learning: Image Segmentation & CIFAR-10 Classification
+# Visión por Computador y Deep Learning: Segmentación de Imágenes y Clasificación en CIFAR-10
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
@@ -7,7 +7,7 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-brightgreen.svg)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
-An end-to-end applied study covering **unsupervised image segmentation & color quantization** using clustering techniques alongside **supervised deep learning architectures** for image classification on the **CIFAR-10** benchmark.
+Proyecto práctico de visión por computador centrado en **segmentación no supervisada y cuantización de color** mediante técnicas de clustering, junto con el diseño y optimización de **arquitecturas de deep learning supervisadas** para la clasificación de imágenes en el benchmark **CIFAR-10**.
 
 ---
 
